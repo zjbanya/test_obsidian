@@ -2,7 +2,15 @@
   "customOrder": {
     "/": {
       "children": [
-        "欢迎.md"
+        "README.md",
+        "欢迎.md",
+        "attachments"
+      ],
+      "sortOrder": "custom"
+    },
+    "attachments": {
+      "children": [
+        "attachments/neuro-sama.jpg"
       ],
       "sortOrder": "custom"
     }

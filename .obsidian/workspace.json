@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25dd334092a4440c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "人工智能/LLMs/LLMs.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "LLMs"
-            }
-          },
-          {
             "id": "00031dbe4f25344c",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "欢迎"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,8 +234,10 @@
   },
   "active": "00031dbe4f25344c",
   "lastOpenFiles": [
+    "欢迎.md",
+    "attachments",
     "README.md",
-    "neuro-sama.jpg",
+    "attachments/neuro-sama.jpg",
     "人工智能/LLMs/LLMs.md",
     "人工智能/人工智能(House).md",
     "日计划.md",
@@ -275,18 +262,15 @@
     "Projraming language/Rust/《Rust 语言圣经》/总结章节.md",
     "Projraming language/Rust/《Rust 语言圣经》/准则.md",
     "Projraming language/Rust/《Rust 语言圣经》/2. 基本类型.md",
-    "Projraming language/Rust/《Rust 语言圣经》/概念.md",
     "人工智能/《动手学深度学习-PyTorch(第二版)》/days",
     "人工智能/《动手学深度学习-PyTorch(第二版)》",
     "BOOK",
-    "人工智能/《Build a Large Language Model (From Scratch) 》/ch03_Coding attention mechanisms.md",
     "Projraming language/Rust/《Rust 语言圣经》",
     "IDE/VSCode",
     "IDE",
     "Projraming language/Rust",
     "Projraming language/未命名.canvas",
     "Projraming language/python",
-    "Projraming language",
     "attachments/Pasted image 20260422192114.png",
     "attachments/Pasted image 20260422191235.png",
     "attachments/Pasted image 20260422190217.png",
