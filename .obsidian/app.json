@@ -1,0 +1,13 @@
+{
+  "promptDelete": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "strictLineBreaks": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "attachments",
+  "newFileLocation": "current",
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
+}

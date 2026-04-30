@@ -1,0 +1,12 @@
+{
+	"id": "viewtuner",
+	"name": "ViewTuner视觉调音师",
+	"version": "1.15.0",
+  "signature": "5CB5165CCA81E2D5B971BB5668D1B662",
+	"minAppVersion": "1.8.0",
+	"description": "全能易用一站式【美化+工具】平台 | All-in-one, beginner-friendly beautify-and-boost hub.",
+	"author": "Lyon李昂",
+	"authorUrl": "WX:Lyon1893",
+	"fundingUrl": "https://b23.tv/jy2QmcH",
+	"isDesktopOnly": false
+}
